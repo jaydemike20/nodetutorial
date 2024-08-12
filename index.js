@@ -14,3 +14,4 @@ console.log(getPosts())
 
 console.log(`Posts Length: ${getPostsLength()}`);
 
+// https://youtu.be/32M1al-Y6Ag?si=UjbfvDCjcJo9KWr_&t=2622
